@@ -8,7 +8,8 @@ The packages needed for the notebooks in these resources are stored in `environm
 
 ``conda env create -f environment.yml``
 
-This command should create a new environment called ``petrofit``.
+This command should create a new environment called ``petrofit``. 
+**Note** you will need to install PetroFit yourself to make sure you are using the correct version.
 
 ## Sections 
 | Section | Notebook |
