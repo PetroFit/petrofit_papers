@@ -1,0 +1,8 @@
+echo galfit_simulated_sersic_n0.5_psf
+./galfit galfit_simulated_sersic_n0.5_psf.feedme
+echo galfit_simulated_sersic_n1_psf
+./galfit galfit_simulated_sersic_n1_psf.feedme
+echo galfit_simulated_sersic_n4_psf
+./galfit galfit_simulated_sersic_n4_psf.feedme
+echo galfit_simulated_sersic_n5_psf
+./galfit galfit_simulated_sersic_n5_psf.feedme
