@@ -9,7 +9,8 @@ The packages needed for the notebooks in these resources are stored in `environm
 ``conda env create -f environment.yml``
 
 This command should create a new environment called ``petrofit``. 
-**Note** you will need to install PetroFit yourself to make sure you are using the correct version.
+**Note** you will need to install PetroFit yourself to make sure you are using the correct version (v0.3.0). For the comparisons
+we used galfit v3.0.5 for Ubuntu and statmorph v0.4.0. 
 
 ## Sections 
 | Section | Notebook |
@@ -20,6 +21,7 @@ This command should create a new environment called ``petrofit``.
 | 4.4. Simultaneously Fitting Overlapping Galaxies| multi_comp_model.ipynb |
 | 4.5. Large Scale Photometry Catalogs | astrodeep_comparison/photometry_abell2744_hffpar.ipynb |
 | Appendix B | relations_petro_sersic.ipynb |
+| Appendix C | comparisons/ |
 
 ## Figuers 
 
@@ -35,5 +37,5 @@ This command should create a new environment called ``petrofit``.
 | Figure 8 | two_comp_model.ipynb|
 | Figure 9 | multi_object.ipynb |
 | Figure 10 | astrodeep_comparison/photometry_abell2744_hffpar.ipynb |
-| Figure 15 | simple_plots.ipynb |
+| Figure 16 | simple_plots.ipynb |
 | Appendix B Figures | relations_petro_sersic.ipynb |
