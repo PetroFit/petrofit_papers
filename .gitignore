@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 .idea/
+galfit
+galfit_simulated_sersic*psf.fits
